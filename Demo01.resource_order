@@ -21,8 +21,12 @@
   "ResourceOrderSettings": [
     {"name":"obj_score","order":4,"path":"objects/obj_score/obj_score.yy",},
     {"name":"spr_background","order":4,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"obj_title","order":5,"path":"objects/obj_title/obj_title.yy",},
     {"name":"obj_enemy","order":3,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"spr_darktile","order":5,"path":"sprites/spr_darktile/spr_darktile.yy",},
+    {"name":"spr_titlescreen","order":6,"path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
     {"name":"spr_enemy","order":3,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"rm_titles","order":1,"path":"rooms/rm_titles/rm_titles.yy",},
     {"name":"spr_bullet","order":2,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
   ],
