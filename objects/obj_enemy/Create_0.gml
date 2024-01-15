@@ -1,2 +1,2 @@
-hp = 5;
-movement_speed = 1.5;
+hp = random_range(2,10);
+movement_speed = random_range(1.5,3);
